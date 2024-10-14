@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ES6",                                  
+    "module": "commonjs",
+    "outDir": "build",
+    "noEmit": false,
+    "allowJs": true,
+    "checkJs": true                       
+  }
+}

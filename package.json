@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "@playwright/test": "^1.47.2",
+    "@types/node": "^22.7.5",
+    "playwright": "^1.47.2",
+    "typescript": "^5.6.2"
+  },
+  "scripts": {
+    "funda":"npx playwright test --project=funda",
+    "pretty-quick": "pretty-quick"
+  },
+  "dependencies": {
+    "pretty-quick": "^4.0.0",
+    "dotenv":"16.4.5",
+    "dotenv-expand": "11.0.6"
+  },
+  "keywords": [],
+  "author": "AM",
+  "license": "ISC"
+}
